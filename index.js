@@ -14,7 +14,7 @@ console.log(message[10]) //m
 console.log(message.charAt(9)) //o
 
 //showing the last index
-console.log(message[message.lenght - 1]) //g
+console.log(message[message.length - 1]) //g
 
 //showing character one by one
 for (let char of message) {
